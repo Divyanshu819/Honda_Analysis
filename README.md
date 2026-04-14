@@ -56,8 +56,8 @@ To deliver a **high-impact analytical tool** that:
 ---
 
 ##  Dashboard Preview
-https://github.com/Divyanshu819/Honda_Analysis/blob/main/Screenshot%202026-04-14%20212223.png  
-  
+**Overview:** https://github.com/Divyanshu819/Honda_Analysis/blob/main/Screenshot%202026-04-14%20212223.png  
+ **Detail:** https://github.com/Divyanshu819/Honda_Analysis/blob/main/Screenshot%202026-04-13%20200936.png
 
 ---
 
@@ -71,7 +71,7 @@ https://github.com/Divyanshu819/Honda_Analysis/blob/main/Screenshot%202026-04-14
 
 ## Author
 **Divyanshu Chauhan** -
--LinkedIn - https://www.linkedin.com/in/divyanshuchauhan29/
--Email - divyanshuc819@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/divyanshuchauhan29/
+**Email:** divyanshuc819@gmail.com
 
 ---
