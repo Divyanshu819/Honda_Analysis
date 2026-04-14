@@ -71,7 +71,7 @@ To deliver a **high-impact analytical tool** that:
 
 ## Author
 **Divyanshu Chauhan** -
-**LinkedIn:** (https://www.linkedin.com/in/divyanshuchauhan29/)
-**Email:** divyanshuc819@gmail.com
+[LinkedIn:](https://www.linkedin.com/in/divyanshuchauhan29/)
+[Email:](divyanshuc819@gmail.com)
 
 ---
