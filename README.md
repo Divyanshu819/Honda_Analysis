@@ -1,6 +1,6 @@
-# 🏍️ Honda Sales Analysis Dashboard
+# Honda Sales Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 The **Honda Sales Analysis Dashboard** is a professional Power BI project designed to track the sales performance and financial health of Honda’s core motorcycle portfolio. By visualizing metrics for key models like the **Hornet 2.0, CB350, Unicorn, SP 125, Activa 6G, and Shine 125**, this tool provides real-time visibility into profitability, regional demand, and customer satisfaction.
 
 It empowers department managers and operational staff to move beyond fragmented reporting and make **data-driven decisions** to optimize inventory and sales strategy.
@@ -56,12 +56,12 @@ To deliver a **high-impact analytical tool** that:
 ---
 
 ##  Dashboard Preview
-*(Add your screenshots here for better visibility)* ![Summary Dashboard](link-to-your-summary-image.png)  
-![Details Page](link-to-your-details-image.png)  
+https://github.com/Divyanshu819/Honda_Analysis/blob/main/Screenshot%202026-04-14%20212223.png  
+  
 
 ---
 
-## 📖 How to Use
+## How to Use
 1. Download the `.pbit` file from this repository.  
 2. Open it in **Power BI Desktop**.  
 3. Use the **Visual Model Slicer** at the top to filter data for specific bikes.
@@ -69,8 +69,9 @@ To deliver a **high-impact analytical tool** that:
 
 ---
 
-## 👨‍💻 Author
-**Divyanshu Chauhan** - 💼 [LinkedIn](https://www.linkedin.com/in/divyanshu-chauhan/)  
-- 📧 [Your Email Address]
+## Author
+**Divyanshu Chauhan** -
+-LinkedIn - https://www.linkedin.com/in/divyanshuchauhan29/
+-Email - divyanshuc819@gmail.com
 
 ---
